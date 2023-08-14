@@ -1,4 +1,4 @@
-## About
+# About
 
 Pink-Theme is a theme for the [Omega](https://github.com/Omega-Numworks/Omega) theme engine, an extension to Numworks' Epsilon.
 
@@ -6,7 +6,7 @@ Pink-Theme is a theme for the [Omega](https://github.com/Omega-Numworks/Omega) t
 
 While compiling Omega or Upsilon, add the `THEME_NAME` and `THEME_REPO` flag :
 
-```
+``` bash
 make THEME_REPO=https://github.com/WoodenMaxim/PinkTheme.git THEME_NAME=upsilon_pink
 ```
 
